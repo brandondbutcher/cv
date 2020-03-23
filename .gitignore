@@ -4,3 +4,6 @@
 .Ruserdata
 *.docx
 *.pdf
+*.log
+*.gz
+deprecated/*
