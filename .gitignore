@@ -6,4 +6,5 @@
 *.pdf
 *.log
 *.gz
+*.html
 deprecated/*
