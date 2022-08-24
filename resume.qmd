@@ -4,52 +4,47 @@ format:
   html:
     linkcolor: "#6a5acd"
     css: styles.css
-editor: visual
-email: brandondbutcher@gmail.com
 ---
 
 <center>
 
-`brandondbutcher@gmail.com` \| `(319) 930-2609` \| [<i class="bi bi-github"></i>](https://github.com/brandondbutcher/) \| [<i class="bi bi-google"></i>](https://scholar.google.com/citations?hl=en&user=Bv2LlwgAAAAJ&view_op=list_works&sortby=pubdate) \| [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/brandon-butcher-72250153/)
+`brandondbutcher@gmail.com` \| `(319) 930-2609` \| [<i class="bi bi-github"></i>](https://github.com/brandondbutcher/) \| [<i class="bi bi-google"></i>](https://scholar.google.com/citations?user=Bv2LlwgAAAAJ&hl=en) \| [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/brandon-butcher-72250153/)
 
 </center>
 
 ## Education
 
-**University of Iowa [Iowa City, IA]{style="float:right"}**\
-  Ph.D. Biostatistics [*2020*]{style="float:right"} \
-  M.S. Biostatistics [*2016*]{style="float:right"}\
-**Iowa State University [Ames, IA]{style="float:right"}**\
-  B.S. Statistics [*2012*]{style="float:right"}   <!-- B.S. Psychology [*2010*]{style="float:right"} -->
+[**University of Iowa**](https://uiowa.edu/) **[Iowa City, IA]{style="float:right"}**\
+  Ph.D. [Biostatistics](https://www.public-health.uiowa.edu/biostat/) [*2020*]{style="float:right"} \
+  M.S. [Biostatistics](https://www.public-health.uiowa.edu/biostat/) [*2016*]{style="float:right"}\
+[**Iowa State University**](https://www.iastate.edu/) **[Ames, IA]{style="float:right"}**\
+  B.S. [Statistics](https://www.stat.iastate.edu/) [*2012*]{style="float:right"}   <!-- B.S. Psychology [*2010*]{style="float:right"} -->
 
-## Work Experience
+## Experience
 
 **Genentech, Inc. [South San Francisco, CA]{style="float:right"}**\
-  Senior Statistical Scientist [*May 2022 - present*]{style="float:right"}\
-  Statistical Scientist [*July 2020 - April 2022*]{style="float:right"}
-
--   Project lead statistician in early development for phase 1/2 clinical trials in immunology, infectious disease, ophthalmology, and neuroscience
--   Oversaw analysis of large phase 2 interim analysis in ulcerative colitis and implemented efficacy and futility criteria ahead of IA readout
--   Mentor newly hired statisticians and summer interns
--   Contributor to open source R initiative [`pharmaverse`](https://pharmaverse.org/)
+  Senior Data Scientist [*May 2022 - present*]{style="float:right"}\
+  Statistical Scientist [*July 2020 - April 2022*]{style="float:right"}\
+  Product Development\
+  Data & Statistical Sciences\
 
 **University of Iowa [Iowa City, IA]{style="float:right"}**\
   Graduate Research Assistant [*May 2016 - Dec 2019*]{style="float:right"}\
   Injury Prevention Research Center\
   College of Public Health\
+
   Graduate Research Assistant [*Feb 2015 - May 2016*]{style="float:right"}\
   Department of Obstetrics and Gynecology\
   Carver College of Medicine
 
-**University of Iowa [Iowa City, IA]{style="float:right"}**\
   Data Analyst [*Sept 2012 - Feb 2015*]{style="float:right"}\
   Department of Psychiatry\
   Carver College of Medicine
 
 ## Technical Skills
 
-Scientific Programming: `C/C++`, [`JAGS`](https://en.wikipedia.org/wiki/Just_another_Gibbs_sampler), [`Julia`](https://julialang.org/), [`R`](https://www.r-project.org/), [`RShiny`](https://shiny.rstudio.com/), [`rstan`](https://cran.r-project.org/web/packages/rstan/), `SAS`, [`Stan`](https://mc-stan.org/)\
-Scripting Languages: `BASH`\
+Scientific Programming: `C/C++`, [`JAGS`](https://en.wikipedia.org/wiki/Just_another_Gibbs_sampler), [`Julia`](https://julialang.org/), [`R`](https://www.r-project.org/), [`Rcpp`](https://www.rcpp.org/), [`RShiny`](https://shiny.rstudio.com/), [`rstan`](https://cran.r-project.org/web/packages/rstan/), [`Stan`](https://mc-stan.org/)\
+Scripting Languages: [`BASH`](https://en.wikipedia.org/wiki/Bash_Unix_shell)\
 Data Management: `SQL`, [`tidyverse`](https://www.tidyverse.org/)\
 Markup Languages, `HTML`, [`knitr`](https://yihui.org/knitr/), `LaTeX`, `Markdown`, [`Quarto`](https://quarto.org/), [`RMarkdown`](https://rmarkdown.rstudio.com/)\
 Version Control: [`git`](https://git-scm.com/), [`GitHub`](https://github.com/brandondbutcher/)
